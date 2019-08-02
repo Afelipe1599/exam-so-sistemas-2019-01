@@ -25,7 +25,7 @@ Cuando se ejecuto 5 veces el programa con
 
 se observaron los siguientes tiempos 
 
-[Evidencia1](Captura de pantalla -2019-08-02 11-36-05.png)
+[Evidencia1](evidencia1)
 
 
 Cuando se ejecuto 5 veces el programa con 
@@ -34,6 +34,6 @@ Cuando se ejecuto 5 veces el programa con
 
 se observaron los siguientes tiempos
 
-[Evidencia2](Captura de pantalla -2019-08-02 11-42-10.png)
+[Evidencia2](evidencia2)
 
 El incremento de los tiempos es dado ya que cuando se instala la puerta dentro del ciclo for, este procedimiento tiene que esperar a que el ciclo for se complete para terminar por eso se demora su ejecucion.
